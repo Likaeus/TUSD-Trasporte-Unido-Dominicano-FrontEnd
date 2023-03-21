@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/715b1ce3-0e26-48cb-bab0-c09d346d2a61/resourceGroups/resourceGroup1/providers/Microsoft.Web/sites/tusd",
+  "appService.deploySubpath": "build"
+}

@@ -1,0 +1,16 @@
+.navBar {
+  background-color: rgb(230, 230, 230);
+  width: 70%;
+  height: 100vh;
+  position: absolute;
+}
+
+ul {
+  padding-top: 50px;
+}
+
+ul li {
+  text-align: left;
+  text-decoration: none;
+  list-style: none;
+}

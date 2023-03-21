@@ -1,0 +1,27 @@
+.form-group {
+  font-size: larger;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #1a132f !important;
+}
+.form-title {
+  font-weight: bold;
+  font-size: xx-large;
+  text-decoration: underline;
+}
+.btn-fresh {
+  background-color: #557b83;
+  color: white;
+  border-color: #557b83;
+}
+.btn-not-fresh {
+  background-color: #da7f8f;
+  color: white;
+  border-color: #da7f8f;
+}
+.contenedor {
+  border: 1px solid black;
+}
+.contenedor p {
+  margin: 0%;
+}

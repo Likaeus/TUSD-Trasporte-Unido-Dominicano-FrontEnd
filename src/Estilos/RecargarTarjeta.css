@@ -1,0 +1,29 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background: linear-gradient(135deg, #7196ad, #1a2555);
+}
+
+.container {
+  max-width: 700px;
+  width: 100%;
+  background-color: rgba(163, 177, 191, 0.326);
+  padding: 100px 130px;
+  border-radius: 5px;
+  box-shadow: 50px 50px 50px rgba(0, 0, 0, 0.15);
+}
+
+.btn-master {
+  background-color: #eec373;
+  border-color: #eec373;
+  color: #1a2555;
+  font-size: medium;
+  width: 200px;
+}
+.form-title {
+  font-weight: bold;
+  text-decoration: underline;
+}

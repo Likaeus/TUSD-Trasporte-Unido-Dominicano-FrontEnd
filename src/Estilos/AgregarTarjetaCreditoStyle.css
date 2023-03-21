@@ -1,0 +1,29 @@
+
+.spacing{
+    max-width: 700px;
+    width: 100%;
+    background-color: rgba(163, 177, 191, 0.326);
+    padding: 30px 30px;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #1a132f !important;
+  }
+  .form-title {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  .btn-fresh {
+    background-color: #557b83;
+    color: white;
+    border-color: #557b83;
+  }
+  .btn-not-fresh {
+    background-color: #da7f8f;
+    color: white;
+    border-color: #da7f8f;
+  }

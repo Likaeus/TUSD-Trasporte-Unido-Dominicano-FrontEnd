@@ -1,0 +1,75 @@
+:root {
+  --primary-color: #2b374f;
+  --secondary-color: #0e1420;
+}
+
+.tbody {
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.bgr {
+  background: var(--primary-color);
+  box-shadow: 10px 10px 10px #120d22;
+  padding: 3;
+}
+
+.m-5 {
+  background: #2a3959;
+  box-shadow: 3px 3px 10px #000000;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  font-style: initial;
+}
+
+.m-6 {
+  background: #0a0e15;
+  box-shadow: 3px 3px 10px #000000;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  font-style: initial;
+}
+
+.mt-2 {
+  background: #232b3c;
+  box-shadow: 3px 3px 10px #000000;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  font-size: 100%;
+}
+
+.m-5 .logo {
+  width: 1px;
+  margin-bottom: 1rem;
+}
+
+.m-4 {
+  background: #232b3c;
+  box-shadow: 3px 3px 10px #000000;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+}
+
+.table {
+  background: var(--primary-color);
+  padding: 50;
+  font-family: "Cursive", sans-serif;
+  display: flexbox;
+  flex-direction: row;
+  color: aliceblue;
+}
+
+.tarjetas-transporte {
+  background: var(--primary-color);
+  font-family: "Cursive", sans-serif;
+  flex-direction: row;
+  box-shadow: 3px 3px 10px #000000;
+  color: aliceblue;
+}
+
+.trepunt {
+  background-color: rgba(84, 122, 155, 0.593) !important;
+  padding: 1%;
+}
